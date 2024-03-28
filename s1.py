@@ -1,2 +1,2 @@
 
-print_hi("helhfhfglo")
+print_hi("hello")
